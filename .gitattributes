@@ -1,0 +1,2 @@
+mdx[[:space:]]-[[:space:]]Sound[[:space:]]Databases/English/01/*.mdd filter=lfs diff=lfs merge=lfs -text
+mdx[[:space:]]-[[:space:]]Word[[:space:]]Databases/Persian/Persian[[:space:]]to[[:space:]]Persian/Wikipedia[[:space:]]Persian.mdx filter=lfs diff=lfs merge=lfs -text
